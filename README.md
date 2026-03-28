@@ -4,6 +4,12 @@ Interfaz web desarrollada con HTML y CSS que muestra tarjetas de perfil de usuar
 
 ---
 
+## Descripción
+
+Este proyecto consiste en una interfaz web que presenta tarjetas de perfil de usuario con información básica y enlaces a redes sociales, utilizando únicamente HTML y CSS.
+
+---
+
 ## Tecnologías utilizadas
 - HTML  
 - CSS  
@@ -19,7 +25,8 @@ Interfaz web desarrollada con HTML y CSS que muestra tarjetas de perfil de usuar
 ---
 
 ## Objetivo
-Practicar el diseño de interfaces web y la maquetación con HTML y CSS.
+
+El objetivo de este proyecto es practicar el desarrollo de interfaces web con HTML y CSS, así como el uso de Git y GitHub para el control de versiones y la integración continua.
 
 ---
 
